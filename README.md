@@ -1,4 +1,4 @@
-# CSUN COMP 641
+# CSUN COMP 641 Final Project: LAUSD Edulytix
 
 ## Group Members: Damir Kozhamkulov, Lucas Troutman, Diego Arteaga, Cody Laurie
 
