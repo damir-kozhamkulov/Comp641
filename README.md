@@ -1,10 +1,10 @@
-# CSUN COMP 641 Final Project: LAUSD Edulytix
+# COMP 641 - Final Project: LAUSD Edulytix
 
 ## Group Members: Damir Kozhamkulov, Lucas Troutman, Diego Arteaga, Cody Laurie
 
 ## Project Description
 
-This is a group project for CSUN Comp641 our goal is to build a classification model for CAASPP data involving school budget information
+This is a group project for CSUN COMP 641. Our goal is to build a classification model for LAUSD school data involving test scores, geographic location data, and budget information.
 
 ### Datasets Used
 
