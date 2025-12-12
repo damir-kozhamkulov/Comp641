@@ -47,7 +47,7 @@ This is a group project for CSUN Comp641 our goal is to build a classification m
      jupyter notebook
      ```
    - Open and execute the following notebooks in order:
-     - `EDA/EDA_Project_Edulytix.ipynb`: For exploratory data analysis.
+     - `EDA/--`: For exploratory data analysis.
      - `Final Project.ipynb`: For data preprocessing, model training, and evaluation.
 
 4. **Outputs**:
@@ -65,5 +65,23 @@ This is a group project for CSUN Comp641 our goal is to build a classification m
   - `matplotlib`
   - `seaborn`
   - `jupyter`
+
+---
+
+## Project Structure
+
+```
+Comp641/
+├── EDA/                              # Folder containing exploratory data analysis files
+│   ├── Damir_EDA_Analysis.ipynb      # Exploratory data analysis by Damir
+│   ├── Diego_EDA_Project_Edulytix.ipynb  # Exploratory data analysis by Diego
+│   ├── project_eda.ipynb             # General exploratory data analysis
+├── Final Project.ipynb               # Main notebook for model training and evaluation
+├── README.md                         # Project documentation
+├── school_funding_performance_clean.csv  # Cleaned dataset for analysis
+├── school_usable_columns.csv         # Dataset with selected usable columns
+├── sb_ca2024entities_csv.txt         # Raw CAASPP data file
+├── df_3_4_inner (1).csv              # Additional dataset for merging
+```
 
 ---
