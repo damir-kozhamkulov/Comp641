@@ -29,7 +29,7 @@ This is a group project for CSUN COMP 641. Our goal is to build a classification
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Damirchik11/Comp641.git
+   git clone https://github.com/damir-kozhamkulov/Comp641.git
    cd Comp641
    ```
 
